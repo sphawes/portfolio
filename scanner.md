@@ -136,7 +136,7 @@ The previous version just had the motor mounted in a slotted hole pattern so we 
 
 This did wonders for the pedestal's reliability.
 
-We also 
+We also  
 tower improvements
 - Stepper heatsink
   ![](/assets/scanner/painted-skinned-tower.JPG)
