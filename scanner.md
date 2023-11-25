@@ -136,7 +136,7 @@ The previous version just had the motor mounted in a slotted hole pattern so we 
 
 This did wonders for the pedestal's reliability.
 
-We also  
+We also had some improvements to make on the tower. We gave the whole thing a nice paint job, and properly mounted the electronics into the base. Lucian even added a heatsink to the stepper, which we found could get a bit toasty after running many scans in a row.
 tower improvements
 - Stepper heatsink
   ![](/assets/scanner/painted-skinned-tower.JPG)
