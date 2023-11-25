@@ -120,13 +120,23 @@ The scanner worked, but there were a few things to tweak before we were ready to
 
 ### Tweaks
 
-ped improvements
-- griptate
-- blue sprocket
+Based on feedback from the UConn event, we knew we had to improve the pedestal. The chain kept coming off of the sprockets, and the top surface was a bit slippery for a moving platform.
+
+We solved the slip issue with some griptape! A few sheets made the pedestal feel more stable and look quite nice.
+
 ![](/assets/scanner/grip-bigger-sprocket.JPG)
-- tensioner better than slotted mount
+
+For the chain issue, we did a couple things. We printed a bigger, beefier sprocket that would have more tooth engagement, and Lucian added a whole tensioning system.
+
 ![](/assets/scanner/base-with-tensioner.JPG)
 
+The previous version just had the motor mounted in a slotted hole pattern so we could pull it tight. However, the sprockets weren't perfectly concentric with the axis of rotation, so we had to deal with varying sprocket spacing. We didn't have time to recut the pedestal more precisely, so Lucian added a variable tensioning rod that applied constant pressure to the chain, regardless of the slack introduced.
+
+![](/assets/scanner/tensioner.JPG)
+
+This did wonders for the pedestal's reliability.
+
+We also 
 tower improvements
 - Stepper heatsink
   ![](/assets/scanner/painted-skinned-tower.JPG)
