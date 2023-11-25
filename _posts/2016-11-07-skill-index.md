@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keeping a Skill Index
-permalink: {{ 'keeping-a-skill-index' | relative_url }}
+permalink: keeping-a-skill-index
 ---
 
 I was recently asked, “What was the first thing you built that you were truly proud of?” My answer was an RSS feed aggregator I build in high school to get my feet wet with php, database management, cookies, etc. But as I was explaining the technical details of the project, I was surprised recalling what skills I had used to complete it. Granted, it had been four or five years since I had worked on the site, but this was slightly jarring to me. How many times had I neglected to consider that I had the ability to develop in some way, and altered my development stack because of it? I felt like this was unlikely; who actually forgets they have a skill? But I had clearly done it to some degree.

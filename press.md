@@ -52,8 +52,8 @@ permalink: /press/
 
 <p><a href="https://today.uconn.edu/2016/03/helping-hand-student-designs-prosthetic-limb/">Helping Hand Student Designs Prosthetic Limb</a> &#8211; UConn Today</p>
 <p><a href="https://today.uconn.edu/2016/07/2016-iq-winners/">2016 IQ Winners</a> &#8211; UConn Today</p>
-<p><a href="http://www.wili-am.com/wp_bows.htm">Stephen Hawes</a> &#8211; WILI AM Radio Interview</p>
-<p><a href="http://today.uconn.edu/commencement-2017/#student-4">Commencement-2017</a> &#8211; UConn Today</p>
+<p><a href="https://www.wili-am.com/wp_bows.htm">Stephen Hawes</a> &#8211; WILI AM Radio Interview</p>
+<p><a href="https://today.uconn.edu/commencement-2017/#student-4">Commencement-2017</a> &#8211; UConn Today</p>
 <p><a class="hoverZoomLink" href="https://www.instagram.com/p/BS_U2btFzDE/">UConn Entrepreneurs</a> &#8211; UConn Instagram</p>
 
 ### Led T-Shirt

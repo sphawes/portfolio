@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Glowtie
-permalink: /glowtie/
 ---
 
 The Glowtie is a light up bowtie that’s controlled using Wifi!
