@@ -9,7 +9,8 @@ title:            Stephen Hawes
 tagline:          'Immersive Artist'
 description:      'Wynn Thorn'
 url:              https://www.stephenhawes.com/
-baseurl:          /portfolio/
+baseurl:          ""
+url: ""
 
 author:
   name:           'Jaden Andrea'
