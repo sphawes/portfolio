@@ -37,9 +37,16 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
+
+@media (min-width: 40em) {
+  html {
+    font-size: .75rem;
+  }
+}
+
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 1rem;
   }
 }
 @media (min-width: 58em) {
@@ -81,7 +88,7 @@ html {
  * Flip the orientation of the page by placing the `.sidebar` on the right.
  */
 
-@media (min-width: 48em) {
+/* @media (min-width: 48em) {
   .layout-reverse .sidebar {
     left: auto;
     right: 0;
@@ -91,14 +98,14 @@ html {
     margin-left: 3%;
     width:70%;
   }
-}
+} */
 
-@media (min-width: 64em) {
+/* @media (min-width: 64em) {
   .layout-reverse .content {
     margin-left: 3%;
-    width:70%;
+    width:80%;
   }
-}
+} */
 
 img {
   margin-left: auto;
@@ -397,4 +404,50 @@ img + em {
   text-align:center;
   display:block;
   font-size:0.85rem;
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 40em) {
+  .content {
+    width: 22em;
+  }
+  #title {
+    order:1;
+  }
+  #blog {
+    order:2;
+  }
+  #about {
+    order:3;
+  }
+  #lumenpnp {
+    order:4;
+  }
+  #glowtie-card{
+    order:5;
+  }
+  #mask {
+    order:6;
+  }
+  #flamethrower-card {
+    order:7;
+  }
+  #scanner {
+    order:8;
+  }
+  #deeplocal {
+    order:9;
+  }
+  #atlas {
+    order:10
+  }
+
+  
+  #press {
+    order: 16;
+  }
+  #contact {
+    order:17;
+  }
 }
