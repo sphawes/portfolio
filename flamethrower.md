@@ -28,3 +28,5 @@ The result is beyond satisfying. And bringing this crazy thing to New York Maker
 <iframe class="video" src="https://www.youtube.com/embed/A_SFpVtnvXI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Not sure if I'll ever dive back into the flamethrower game, but if I do, I'll probably make a custom tank so I can dump the whole thing at once for a HUGE burst, and redo the palm piece. I might replace the taser for some nichrome wire or a pilot light as the taser was fairly unreliable.
+
+![](/assets/flamethrower/ft.JPG)

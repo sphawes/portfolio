@@ -362,6 +362,13 @@ img {
   vertical-align: middle;
 }
 
+#scanner {
+  background-image: url('/assets/scanner/rotating.gif');
+  background-size:cover;
+  background-position:center;
+  vertical-align: middle;
+}
+
 #atlas {
   background-image: url('/assets/squeezeTest.gif');
   background-size:cover;
@@ -382,8 +389,8 @@ img {
   display:block;
   margin:auto;
   margin-bottom:10px;
-  width:560px;
-  height: 315px;
+  width:760px;
+  height: 430px;
 }
 
 img + em {

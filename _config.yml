@@ -6,15 +6,15 @@ permalink:        pretty
 
 # Setup
 title:            Stephen Hawes
-tagline:          'Immersive Artist'
-description:      'Wynn Thorn'
+tagline:          ''
+description:      'The personal portfolio of Stephen Hawes'
 url:              https://www.stephenhawes.com/
 baseurl:          ""
 url:              ""
 
 author:
-  name:           'Jaden Andrea'
-  url:            https://github.com/nostalgiapurgatory
+  name:           'Stephen Hawes'
+  url:            https://github.com/sphawes
 
 plugins: 
   - jekyll-paginate
@@ -30,4 +30,4 @@ collections:
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/sphawes/portfolio

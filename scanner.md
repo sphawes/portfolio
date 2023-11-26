@@ -137,16 +137,23 @@ The previous version just had the motor mounted in a slotted hole pattern so we 
 This did wonders for the pedestal's reliability.
 
 We also had some improvements to make on the tower. We gave the whole thing a nice paint job, and properly mounted the electronics into the base. Lucian even added a heatsink to the stepper, which we found could get a bit toasty after running many scans in a row.
-tower improvements
-- Stepper heatsink
-  ![](/assets/scanner/painted-skinned-tower.JPG)
-  ![](/assets/scanner/tower-guts.JPG)
-  ![](/assets/scanner/tower-without-cover.JPG)
+
+![](/assets/scanner/painted-skinned-tower.JPG)
+
+![](/assets/scanner/tower-guts.JPG)
+
+Then we enclosed all the controls with some ply and a removable polystyrene cover so it looked a bit neater.
+
+![](/assets/scanner/tower-without-cover.JPG)
+
+Then it was running dozens of tests, and looking for bugs.
 
 ![](/assets/scanner/testing-sph.JPG)
 *Running some tests in Lucian's bedroom the night before shipping*
 
 ### Delivery
+
+After a quick drive to the install site, setup was smooth!
 
 ![](/assets/scanner/deployed.jpeg)
 *All set up next to the facility's 3D printer*
@@ -159,4 +166,4 @@ tower improvements
 
 We were stoked. It was a great day delivering a project that pushed both Lucian and myself to learn new skills, deal with deadlines and budgets, and work on projects in a team.
 
-Lucian and I made a bit of money from the sale, which I turned around and put directly into my Lulzbot Taz 5, and he invested in an XCarve CNC machine. 
+Lucian and I made a bit of money from the sale, which I put directly into my Lulzbot Taz 5, and he invested in an XCarve CNC machine.
