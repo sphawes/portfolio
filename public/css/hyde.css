@@ -410,7 +410,26 @@ img + em {
 
 @media only screen and (max-width: 40em) {
   .content {
-    width: 22em;
+    width: 26em;
+  }
+  .bento {
+    height:11.5em;
+  }
+  .bento-1u {
+    width: 11.5em;
+  }
+  .bento-2u {
+    width: 24em;
+  }
+  .page {
+    width: 100%;
+  }
+  #back-button {
+    right:20px;
+    left: auto;
+  }
+  .video {
+    width:100%;
   }
   #title {
     order:1;
