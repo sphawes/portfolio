@@ -412,6 +412,12 @@ img + em {
   .content {
     width: 26em;
   }
+  .bento-link {
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.4);
+  }
+  .bento-link .bento-title {
+    opacity: 1;
+  }
   .bento {
     height:11.5em;
   }
