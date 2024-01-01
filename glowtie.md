@@ -3,7 +3,7 @@ layout: page
 title: Glowtie
 ---
 
-The [Glowtie](https://glowtie.wordpress.com/) is a light up bowtie that’s controlled using Wifi!
+The [Glowtie](https://glowtie.io/) is a light up bowtie that’s controlled using Wifi!
 
 ![](/assets/glowtie/stephen.jpeg)
 

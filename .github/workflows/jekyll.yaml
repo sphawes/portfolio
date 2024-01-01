@@ -42,6 +42,12 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
+      - name: Resize Images
+        run:   |
+          sudo apt-get install imagemagick pngquant
+          find . -name '/assets/*.png' -execdir bash -c 'mogrify -resize 1000x "$1"' - {} \;
+          find . -name '/assets/*.jpg' -execdir bash -c 'mogrify -resize 1000x "$1"' - {} \;
+          find . -name '/assets/*.png' -execdir bash -c 'pngquant "$1" --ext .png --force' - {} \;
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run:   |
