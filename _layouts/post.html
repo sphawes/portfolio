@@ -5,10 +5,9 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.time }}</span>
+  <p style="color:#666">{{ page.date | date: "%B %Y" }}</p>
   {{ content }}
 </div>
-
 
 <!--
 <div class="related">
