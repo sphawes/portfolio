@@ -229,7 +229,7 @@ img {
 #back-button {
   position: fixed;
   top: 20px;
-  left:20px;
+  right:20px;
   background-color: #bbb;
   padding: 10px;
   border-radius: 3px;
@@ -298,7 +298,7 @@ img {
 
 
 #lumenpnp {
-  background-image: url('/assets/lumenpnp.png');
+  background-image: url('/assets/bento-thumb/lumenpnp.png');
   background-size:cover;
   background-position:center;
   vertical-align: middle;
@@ -306,21 +306,21 @@ img {
 }
 
 #blog {
-  background-image: url('/assets/blog.png');
+  background-image: url('/assets/bento-thumb/blog.png');
   background-size:cover;
   background-position:center;
   vertical-align: middle;
 }
 
 #about {
-  background-image: url('/assets/stephen.jpg');
+  background-image: url('/assets/bento-thumb/stephen.jpeg');
   background-size:cover;
   background-position:center;
   vertical-align: middle;
 }
 
 #glowtie-card{
-  background-image: url('/assets/glowtie.gif');
+  background-image: url('/assets/bento-thumb/glowtie.gif');
   background-size:cover;
   background-position:center;
   vertical-align: middle;
@@ -342,14 +342,14 @@ img {
 }
 
 #deeplocal {
-  background-image: url('/assets/deeplocal2.jpg');
+  background-image: url('/assets/bento-thumb/deeplocal2.jpg');
   background-size:cover;
   background-position:center;
   vertical-align: middle;
 }
 
 #flamethrower-card {
-  background-image: url('/assets/flamethrower.jpeg');
+  background-image: url('/assets/bento-thumb/flamethrower.jpeg');
   background-size:cover;
   background-position:center;
   vertical-align: middle;
@@ -363,28 +363,28 @@ img {
 }
 
 #mask {
-  background-image: url('/assets/pcb-mask/mask.gif');
+  background-image: url('/assets/bento-thumb/mask.gif');
   background-size:cover;
   background-position:center;
   vertical-align: middle;
 }
 
 #scanner {
-  background-image: url('/assets/scanner/rotating.gif');
+  background-image: url('/assets/bento-thumb/rotating.gif');
   background-size:cover;
   background-position:center;
   vertical-align: middle;
 }
 
 #atlas {
-  background-image: url('/assets/squeezeTest.gif');
+  background-image: url('/assets/bento-thumb/squeezeTest.gif');
   background-size:cover;
   background-position:center;
   vertical-align: middle;
 }
 
 #contact {
-  background-image: url('/assets/contact.jpg');
+  background-image: url('/assets/bento-thumb/contact.jpg');
   background-size:cover;
   background-position:center;
   vertical-align: middle;
@@ -409,14 +409,19 @@ img + em {
 /* Mobile */
 
 @media only screen and (max-width: 40em) {
+
+  #bento-wrapper {
+    justify-content: space-between;
+  }
+
   .content {
     width: 90%;
   }
   .bento {
-    height:11.5em;
+    height:11em;
   }
   .bento-1u {
-    width: 11.5em;
+    width: 48%;
   }
   .bento-2u {
     width: 24em;
