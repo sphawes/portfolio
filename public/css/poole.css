@@ -85,6 +85,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   color: #313131;
   text-rendering: optimizeLegibility;
+  margin-bottom: 0.5rem;
 
 }
 h1 {
@@ -96,10 +97,23 @@ h2 {
 }
 h3 {
   font-size: 1.75rem;
+  color: #af8000;
+  border-top: 2px #e1e4e8 solid
 }
-h4, h5, h6 {
+h4 {
   margin-top: 1rem;
   font-size: 1.5rem;
+}
+
+h5 {
+  margin-top: 1rem;
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
 }
 
 /* Body text */
@@ -118,7 +132,7 @@ strong {
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
 }
 
 dt {
