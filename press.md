@@ -32,6 +32,12 @@ permalink: /press/
 
 [Electronica 2022: Stephen Hawes introduces the Lumen Open Source PnP Machine](https://www.electromaker.io/blog/article/electronica-2022-stephen-hawes-introduces-the-lumin-open-source-pnp-machine) - Electromaker
 
+[The LumenPnP Pasting Utility: Never Buy Solder Stencils Again?](https://hackaday.com/2025/07/30/the-lumenpnp-pasting-utility-never-buy-solder-stencils-again/) - Hackaday
+
+[Is This The Last PCB You’ll Ever Buy?](https://hackaday.com/2025/11/02/is-this-the-last-pcb-youll-ever-buy/) - Hackaday
+
+[From Formlabs to Founder – Companies Founded by Formlabs Alumni](https://venturefizz.com/insights/from-formlabs-to-founder-formlabs-alumni-and-the-companies-they-founded/) - venturefizz
+
 ### Glowtie
 
 <p><a href="https://hackaday.com/2019/02/25/glowtie-is-perfect-for-those-fancy-dress-raves/">Glowtie Is Perfect For Those Fancy Dress Raves</a> &#8211; Hackaday</p>
