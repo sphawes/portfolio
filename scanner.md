@@ -4,7 +4,7 @@ title: 3D Scanner
 permalink: /scanner/
 ---
 
-During my sophomore year of college, I developed a 3D scanning machine with my friend Lucian by request of a company in Stamford, Connecticut. We were asked to design and fabricate a machine that could take a 3D scan of one or two people, full size.
+During my sophomore year of college, I developed a 3D scanning machine with my friend Lucy by request of a company in Stamford, Connecticut. We were asked to design and fabricate a machine that could take a 3D scan of one or two people, full size.
 
 We decided to use an Xbox Kinect, as there is already a substantial amount of software available that can render a 3D mesh using this hardware.  After some initial tests, we decided on a pedestal that rotates the object being scanned, and the Kinect on a vertical axis that moves up and down in order to capture the object's entire geometry.
 
@@ -74,9 +74,9 @@ Getting the machine to perform movements based on a defined set of parameters wa
 
 ### Pedestal
 
-While I was working on the software and electronics, Lucian was focusing on the pedestal. It needed to be able to rotate up to 500lbs [227kg], be incredibly sturdy, and be able to tell the base unit when it was at a "home" position.
+While I was working on the software and electronics, Lucy was focusing on the pedestal. It needed to be able to rotate up to 500lbs [227kg], be incredibly sturdy, and be able to tell the base unit when it was at a "home" position.
 
-Lucian milled out the base on the Shapeoko in the UConn Art department's shop, and attached a humongous lazy susan bearing.
+Lucy milled out the base on the Shapeoko in the UConn Art department's shop, and attached a humongous lazy susan bearing.
 
 ![](/assets/scanner/milling.gif)
 ![](/assets/scanner/base-with-bearing.JPG)
@@ -85,9 +85,9 @@ Lucian milled out the base on the Shapeoko in the UConn Art department's shop, a
 
 Because we didn't really care about the exact position of the pedestal, we were able to use a more powerful DC motor for rotation.
 
-Lucian and I were on a tight college kid budget, so we tried to find ways to save money on the build wherever possible. The best example of this is the sprockets we used to transfer power from the motor to the pedestal itself.
+Lucy and I were on a tight college kid budget, so we tried to find ways to save money on the build wherever possible. The best example of this is the sprockets we used to transfer power from the motor to the pedestal itself.
 
-McMaster-Carr has a wonderful website full of engineering drawings and 3D models of most of their products. While Lucian and I were looking for sprockets, we realized that we could download a 3D model of the ones we were thinking about buying and 3D print them to test. The printed ones ended up being plenty strong for our application, so that's what we used!
+McMaster-Carr has a wonderful website full of engineering drawings and 3D models of most of their products. While Lucy and I were looking for sprockets, we realized that we could download a 3D model of the ones we were thinking about buying and 3D print them to test. The printed ones ended up being plenty strong for our application, so that's what we used!
 
 ![](/assets/scanner/ped-bottom-sph.JPG)
 *The bottom of the pedestal with 3D printed sprockets in white and orange*
@@ -107,7 +107,7 @@ Now that the bulk of the work was complete, we started running tests and things 
 
 ![](/assets/scanner/first-scan.jpeg)
 
-Then Lucian took the scanner to an event at the UConn Student Union and scanned a ton of students, gathering information about what we could improve before shipping.
+Then Lucy took the scanner to an event at the UConn Student Union and scanned a ton of students, gathering information about what we could improve before shipping.
 
 ![](/assets/scanner/using.JPG)
 
@@ -116,7 +116,7 @@ I also scanned my roommates and assembled a tiny roomie crew.
 ![](/assets/scanner/roomie-scans.JPG)
 *Tiny Roomies: ASSEMBLE*
 
-The scanner worked, but there were a few things to tweak before we were ready to ship. Lucian and I brought the scanner down to his house a couple weeks before our delivery date and had a hackathon finishing up the loose ends.
+The scanner worked, but there were a few things to tweak before we were ready to ship. Lucy and I brought the scanner down to his house a couple weeks before our delivery date and had a hackathon finishing up the loose ends.
 
 ### Tweaks
 
@@ -126,17 +126,17 @@ We solved the slip issue with some griptape! A few sheets made the pedestal feel
 
 ![](/assets/scanner/grip-bigger-sprocket.JPG)
 
-For the chain issue, we did a couple things. We printed a bigger, beefier sprocket that would have more tooth engagement, and Lucian added a whole tensioning system.
+For the chain issue, we did a couple things. We printed a bigger, beefier sprocket that would have more tooth engagement, and Lucy added a whole tensioning system.
 
 ![](/assets/scanner/base-with-tensioner.JPG)
 
-The previous version just had the motor mounted in a slotted hole pattern so we could pull it tight. However, the sprockets weren't perfectly concentric with the axis of rotation, so we had to deal with varying sprocket spacing. We didn't have time to recut the pedestal more precisely, so Lucian added a variable tensioning rod that applied constant pressure to the chain, regardless of the slack introduced.
+The previous version just had the motor mounted in a slotted hole pattern so we could pull it tight. However, the sprockets weren't perfectly concentric with the axis of rotation, so we had to deal with varying sprocket spacing. We didn't have time to recut the pedestal more precisely, so Lucy added a variable tensioning rod that applied constant pressure to the chain, regardless of the slack introduced.
 
 ![](/assets/scanner/tensioner.JPG)
 
 This did wonders for the pedestal's reliability.
 
-We also had some improvements to make on the tower. We gave the whole thing a nice paint job, and properly mounted the electronics into the base. Lucian even added a heatsink to the stepper, which we found could get a bit toasty after running many scans in a row.
+We also had some improvements to make on the tower. We gave the whole thing a nice paint job, and properly mounted the electronics into the base. Lucy even added a heatsink to the stepper, which we found could get a bit toasty after running many scans in a row.
 
 ![](/assets/scanner/painted-skinned-tower.JPG)
 
@@ -149,7 +149,7 @@ Then we enclosed all the controls with some ply and a removable polystyrene cove
 Then it was running dozens of tests, and looking for bugs.
 
 ![](/assets/scanner/testing-sph.JPG)
-*Running some tests in Lucian's bedroom the night before shipping*
+*Running some tests in Lucy's bedroom the night before shipping*
 
 ### Delivery
 
@@ -158,12 +158,12 @@ After a quick drive to the install site, setup was smooth!
 ![](/assets/scanner/deployed.jpeg)
 *All set up next to the facility's 3D printer*
 
-![](/assets/scanner/lucian-thumbs-up.JPG)
+![](/assets/scanner/Lucy-thumbs-up.JPG)
 *First scan on location!*
 
 ![](/assets/scanner/me-and-ldc.jpg)
 *Shipped 😎*
 
-We were stoked. It was a great day delivering a project that pushed both Lucian and myself to learn new skills, deal with deadlines and budgets, and work on projects in a team.
+We were stoked. It was a great day delivering a project that pushed both Lucy and myself to learn new skills, deal with deadlines and budgets, and work on projects in a team.
 
-Lucian and I made a bit of money from the sale, which I put directly into my Lulzbot Taz 5, and he invested in an XCarve CNC machine.
+Lucy and I made a bit of money from the sale, which I put directly into my Lulzbot Taz 5, and she invested in an XCarve CNC machine.

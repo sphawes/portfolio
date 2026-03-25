@@ -38,6 +38,8 @@ permalink: /press/
 
 [From Formlabs to Founder – Companies Founded by Formlabs Alumni](https://venturefizz.com/insights/from-formlabs-to-founder-formlabs-alumni-and-the-companies-they-founded/) - venturefizz
 
+[Uptown landlord lands electronics maker startup for historic penthouse space](https://www.bizjournals.com/pittsburgh/news/2026/02/20/uptown-smerd-group-opulo-forbes-pride-building.html?ana=giftarticle&utm_campaign=giftarticle&csrc=6452&gift_article_id=76504) - Pittsburgh Business Times
+
 ### Glowtie
 
 <p><a href="https://hackaday.com/2019/02/25/glowtie-is-perfect-for-those-fancy-dress-raves/">Glowtie Is Perfect For Those Fancy Dress Raves</a> &#8211; Hackaday</p>

@@ -24,10 +24,10 @@ In December 2020, I quit my job at Formlabs and moved to Pittsburgh where I plan
 ![](/assets/opulo/cake.jpg)
 *Going away cake from my team at Formlabs "We hope you fail and have to come back"*
 
-Shortly after, I was contacted by an angel investor about raising money for the project. After officially founding Opulo in April of 2021, I took on the angel investment and continued work with my buddy Lucian on board.
+Shortly after, I was contacted by an angel investor about raising money for the project. After officially founding Opulo in April of 2021, I took on the angel investment and continued work with my buddy Lucy on board.
 
 ![](/assets/opulo/lucian-garage.jpg)
-*Lucian provisioning some laptops in my garage*
+*Lucy provisioning some laptops in my garage*
 
 After almost dying from carbon monoxide posioning trying to heat my garage with propane heaters, we finally decided to get an office space.
 
@@ -73,13 +73,20 @@ Item #2: Check. Last is software.
 
 OpenPnP is a great Swiss Army Knife. It can be adapted to almost any machine, and provides configuration options for the most niche types of hardware. But we're only shipping one. The vast array of settings, tabs, sections, and data fields is intimidating and confusing for folks who just want to use their machine.
 
-We're starting to solve this one by making our [documentation](https://docs.opulo.io/) **exceptional**.
+We're starting to solve this one by making our [documentation](https://docs.opulo.io/) **exceptional**, and have a number of other things in the works to improve this as well.
 
 ![](/assets/opulo/docs.png)
 *Nozzle offset calibration page from our docs*
 
-If we can help folks navigate calibration and setup of their machine and avoid the settings that aren't relevant to their hardware, it'll make the experience much smoother.
+In March 2026, [we moved](https://www.bizjournals.com/pittsburgh/news/2026/02/20/uptown-smerd-group-opulo-forbes-pride-building.html?ana=giftarticle&utm_campaign=giftarticle&csrc=6452&gift_article_id=76504) into the historic Forbes Pride building, resulting in a 3.88x increase in our office space. 
 
-<hr>
+![](/assets/opulo/pride1.jpg)
 
-As of this writing, Opulo is eight people strong. I'm incredibly proud of the team, and what we've been able to accomplish in just a few short years. And we're just getting started.
+![](/assets/opulo/pride2.jpg)
+
+This move is mainly an effort to finally eliminate our lead time. In our previous space, we weren't able to build out the infrastructure and hire the folks needed to make an appreciable change.
+
+![](/assets/opulo/pride3.jpg)
+
+In this building, we have all the space we need to bring our lead time down, double down on new projects, and expand the team.
+
